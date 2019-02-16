@@ -38,3 +38,17 @@ body{
     align-content: center;
     text-align: center;
 }
+
+.parallax2 {
+    /* The image used */
+    background-image: url('Title2.png');
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
