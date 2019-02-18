@@ -31,7 +31,10 @@ body{
 }
 
 .content {
-    padding-top:22%;
+    background-color: red;
+    width: 100%;
+    justify-content: center;
+    display: flex;
 }
 
 .col-lg-4 {
@@ -51,4 +54,15 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.cen{
+    text-align: center;
+    padding-top: 15rem;
+
+}
+
+.row {
+    justify-content: center;
+    text-align: center;
 }
